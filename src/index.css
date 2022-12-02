@@ -1,0 +1,9 @@
+:root {
+  background: linear-gradient(90deg, #0d679e 0%, #010565 50%, #fe90df 100% );
+  color: #ebebeb;
+  font-family: 'Playfair Display', serif;
+}
+
+body{
+  margin: 0;
+}
